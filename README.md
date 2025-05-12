@@ -1,6 +1,8 @@
 
 # JAVA Terminal Tasklist Application
 
+### Project status : Dead (I don't usually code java anymore. But migh do if required.)
+
 A very basic tasklist application that can be used in any Terminal using java concepts. Note : This is not a production level application and is just a project for improvising JAVA coding knowledge.
 
 In order to use it copy paste the following commands in your terminal :
